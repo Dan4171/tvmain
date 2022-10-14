@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="OPCIONAL" group-title="Canais", Warner TV
+https://server100.shop/warner/tracks-v1a1/mono.m3u8?token=4b38920e69eeb0d7365be06ba9583a6e09c28c38-5d83d1b6d77fb16bb6dd274ebfba47af-1665756030-1665752430
+EXTINF:-1 tvg-logo="OPCIONAL" group-title="Canais", Comedy Central
+https://server100.shop:443/comedy-central/tracks-v1a1/mono.m3u8?token=ecd9de3fbc40b03dd635b8f57f82afaa050f2a96-9e6738793b75fc20019461bc006e8883-1665756260-1665752660&remote=206.43.59.97
+EXTINF:-1 tvg-logo="OPCIONAL" group-title="Canais", Nickelodeon
+https://server100.shop/nick/tracks-v1a1/mono.m3u8?token=c4d62d5ab9e9f1af6e47fdd07abe55fffc45e5c2-81cc1e8e271e1101228feddd9f669a23-1665756485-1665752885
+EXTINF:-1 tvg-logo="OPCIONAL" group-title="Canais", Star Channel
+https://server100.shop/star/tracks-v1a1/mono.m3u8?token=db2dae95615f542b5ff717bac2c6f18e22387088-6082fe628065b7af94b24808d8d3d28e-1665756601-1665753001
