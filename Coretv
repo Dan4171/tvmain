@@ -1,0 +1,697 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://p6.vc/WHI" group-title="Canais | Filmes e Séries",A&E FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130184.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APV" group-title="Canais | Filmes e Séries",A&E HD
+http://pfsv.io:80/live/1825037/9442/299.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APV" group-title="Canais | Filmes e Séries",A&E SD
+http://pfsv.io:80/live/1825037/9442/324.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VRH" group-title="Canais | Variedades",AgroMais FHD
+http://pfsv.io:80/live/1825037/9442/109512.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WGS" group-title="Canais | Filmes e Séries",AMC FHD
+http://pfsv.io:80/live/1825037/9442/294.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHJ" group-title="Canais | Filmes e Séries",AMC FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30228.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WGS" group-title="Canais | Filmes e Séries",AMC FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130185.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APW" group-title="Canais | Filmes e Séries",AMC HD
+http://pfsv.io:80/live/1825037/9442/300.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQS" group-title="Canais | Filmes e Séries",AMC SD
+http://pfsv.io:80/live/1825037/9442/325.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AKY" group-title="Canais | Documentários",Animal Planet FHD
+http://pfsv.io:80/live/1825037/9442/164.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHO" group-title="Canais | Documentários",Animal Planet FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30248.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHO" group-title="Canais | Documentários",Animal Planet FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130161.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ALM" group-title="Canais | Documentários",Animal Planet HD
+http://pfsv.io:80/live/1825037/9442/179.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AMA" group-title="Canais | Documentários",Animal Planet SD
+http://pfsv.io:80/live/1825037/9442/194.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/bb" group-title="Canais | 4K",Animal Planet [4K]
+http://pfsv.io:80/live/1825037/9442/588.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AKZ" group-title="Canais | Documentários",Arte 1 FHD
+http://pfsv.io:80/live/1825037/9442/165.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHP" group-title="Canais | Documentários",Arte 1 FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30249.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AKZ" group-title="Canais | Documentários",Arte 1 FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130169.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ALN" group-title="Canais | Documentários",Arte 1 HD
+http://pfsv.io:80/live/1825037/9442/180.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AMB" group-title="Canais | Documentários",Arte 1 SD
+http://pfsv.io:80/live/1825037/9442/195.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV
+http://pfsv.io:80/live/1825037/9442/116350.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV FHD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132250.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV HD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132251.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV SD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132252.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONX" group-title="Canais | Campeonatos Estaduais",Athletico Furacao TV [ALTER]
+http://pfsv.io:80/live/1825037/9442/49109.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APR" group-title="Canais | Filmes e Séries",AXN FHD
+http://pfsv.io:80/live/1825037/9442/295.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WID" group-title="Canais | Legendados",AXN FHD LEG
+http://pfsv.io:80/live/1825037/9442/122939.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WGX" group-title="Canais | Filmes e Séries",AXN FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130186.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WGX" group-title="Canais | Filmes e Séries",AXN FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30206.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APX" group-title="Canais | Filmes e Séries",AXN HD
+http://pfsv.io:80/live/1825037/9442/301.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIB" group-title="Canais | Legendados",AXN HD LEG
+http://pfsv.io:80/live/1825037/9442/122933.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQT" group-title="Canais | Filmes e Séries",AXN SD
+http://pfsv.io:80/live/1825037/9442/326.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIC" group-title="Canais | Legendados",AXN SD LEG
+http://pfsv.io:80/live/1825037/9442/122934.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/H" group-title="Canais | 4K",AXN [4K]
+http://pfsv.io:80/live/1825037/9442/50863.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AKK" group-title="Canais | Infantis",Baby TV SD
+http://pfsv.io:80/live/1825037/9442/149.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VCJ" group-title="Canais | Campeonatos Estaduais",Baiano 01
+http://pfsv.io:80/live/1825037/9442/108092.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVE" group-title="Canais | Abertos",Band + Campinas HD
+http://pfsv.io:80/live/1825037/9442/109510.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVI" group-title="Canais | Abertos",Band Bahia HD
+http://pfsv.io:80/live/1825037/9442/113586.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVJ" group-title="Canais | Abertos",Band Campinas HD
+http://pfsv.io:80/live/1825037/9442/113587.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVK" group-title="Canais | Abertos",BAND FHD [H265] 
+http://pfsv.io:80/live/1825037/9442/113588.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AXD" group-title="Canais | Notícias",Band Internacional
+http://pfsv.io:80/live/1825037/9442/518.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AWW" group-title="Canais | Notícias",Band News FHD
+http://pfsv.io:80/live/1825037/9442/510.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VNA" group-title="Canais | Notícias",Band News FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30195.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VNA" group-title="Canais | Notícias",Band News FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130229.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AXA" group-title="Canais | Notícias",Band News HD
+http://pfsv.io:80/live/1825037/9442/514.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VMV" group-title="Canais | Notícias",Band News SD
+http://pfsv.io:80/live/1825037/9442/520.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VTM" group-title="Canais | Abertos",BAND Nordeste SD
+http://pfsv.io:80/live/1825037/9442/32538.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVL" group-title="Canais | Abertos",Band RJ FHD
+http://pfsv.io:80/live/1825037/9442/122446.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVM" group-title="Canais | Abertos",Band RJ HD
+http://pfsv.io:80/live/1825037/9442/122447.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWQ" group-title="Canais | Abertos",Band RS HD
+http://pfsv.io:80/live/1825037/9442/123576.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWR" group-title="Canais | Abertos",Band Sergipe HD
+http://pfsv.io:80/live/1825037/9442/123577.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVH" group-title="Canais | Abertos",Band SP FHD
+http://pfsv.io:80/live/1825037/9442/113585.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVG" group-title="Canais | Abertos",Band SP HD
+http://pfsv.io:80/live/1825037/9442/113584.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVF" group-title="Canais | Abertos",Band SP SD
+http://pfsv.io:80/live/1825037/9442/113583.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AZH" group-title="Canais | 4K",Band SP [4K]
+http://pfsv.io:80/live/1825037/9442/580.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ANX" group-title="Canais | Esportes",Band Sport FHD
+http://pfsv.io:80/live/1825037/9442/247.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSW" group-title="Canais | Esportes",Band Sports FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130175.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSW" group-title="Canais | Esportes",Band Sports FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30275.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AOO" group-title="Canais | Esportes",Band Sports HD
+http://pfsv.io:80/live/1825037/9442/265.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AOG" group-title="Canais | Esportes",Band Sports HD
+http://pfsv.io:80/live/1825037/9442/256.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWP" group-title="Canais | Abertos",Band Teresina HD
+http://pfsv.io:80/live/1825037/9442/123573.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/UAE" group-title="Canais | Abertos",Band TV Campinas FHD
+http://pfsv.io:80/live/1825037/9442/123580.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/UAB" group-title="Canais | Abertos",Band TV Goiania FHD[H265]
+http://pfsv.io:80/live/1825037/9442/123575.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/UAA" group-title="Canais | Abertos",Band TV Goiania HD
+http://pfsv.io:80/live/1825037/9442/123574.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/UAH" group-title="Canais | Abertos",Band TV Minas FHD
+http://pfsv.io:80/live/1825037/9442/123583.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/UAG" group-title="Canais | Abertos",Band TV Minas HD
+http://pfsv.io:80/live/1825037/9442/123582.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/UAC" group-title="Canais | Abertos",Band Tv PR Taroba HD
+http://pfsv.io:80/live/1825037/9442/123578.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/UAF" group-title="Canais | Abertos",Band TV Taroba Curitiba FHD
+http://pfsv.io:80/live/1825037/9442/123581.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/UAD" group-title="Canais | Abertos",Band TV Taroba Curitiba HD
+http://pfsv.io:80/live/1825037/9442/123579.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 1 FHD
+http://pfsv.io:80/live/1825037/9442/132984.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 1 FHD [H265]
+http://pfsv.io:80/live/1825037/9442/132988.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 1 FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/132989.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 1 HD
+http://pfsv.io:80/live/1825037/9442/132982.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 1 SD
+http://pfsv.io:80/live/1825037/9442/132980.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB CAM 1 [ALTER]
+http://pfsv.io:80/live/1825037/9442/131831.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 2 FHD
+http://pfsv.io:80/live/1825037/9442/132983.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 2 FHD [H265]
+http://pfsv.io:80/live/1825037/9442/132986.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 2 FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/132987.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 2 HD
+http://pfsv.io:80/live/1825037/9442/132981.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 2 SD
+http://pfsv.io:80/live/1825037/9442/132979.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB CAM 2 [ALTER]
+http://pfsv.io:80/live/1825037/9442/131830.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 3 FHD
+http://pfsv.io:80/live/1825037/9442/132952.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 3 HD
+http://pfsv.io:80/live/1825037/9442/132953.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 3 SD
+http://pfsv.io:80/live/1825037/9442/132954.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB CAM 3 [ALTER]
+http://pfsv.io:80/live/1825037/9442/131829.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 4 FHD
+http://pfsv.io:80/live/1825037/9442/132955.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 4 HD
+http://pfsv.io:80/live/1825037/9442/132956.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 4 SD
+http://pfsv.io:80/live/1825037/9442/132957.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB CAM 4 [ALTER]
+http://pfsv.io:80/live/1825037/9442/131828.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 5 FHD
+http://pfsv.io:80/live/1825037/9442/132958.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 5 HD
+http://pfsv.io:80/live/1825037/9442/132959.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 5 SD
+http://pfsv.io:80/live/1825037/9442/132960.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB CAM 5 [ALTER]
+http://pfsv.io:80/live/1825037/9442/131827.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 6 FHD
+http://pfsv.io:80/live/1825037/9442/132961.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 6 HD
+http://pfsv.io:80/live/1825037/9442/132962.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 6 SD
+http://pfsv.io:80/live/1825037/9442/132963.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB CAM 6 [ALTER]
+http://pfsv.io:80/live/1825037/9442/131826.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 7 FHD
+http://pfsv.io:80/live/1825037/9442/132964.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 7 HD
+http://pfsv.io:80/live/1825037/9442/132965.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 7 SD
+http://pfsv.io:80/live/1825037/9442/132966.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB CAM 7 [ALTER]
+http://pfsv.io:80/live/1825037/9442/131825.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 8 FHD
+http://pfsv.io:80/live/1825037/9442/132967.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 8 HD
+http://pfsv.io:80/live/1825037/9442/132968.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 8 SD
+http://pfsv.io:80/live/1825037/9442/132969.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB CAM 8 [ALTER]
+http://pfsv.io:80/live/1825037/9442/131824.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 9 FHD
+http://pfsv.io:80/live/1825037/9442/132970.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 9 HD
+http://pfsv.io:80/live/1825037/9442/132971.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB Cam 9 SD
+http://pfsv.io:80/live/1825037/9442/132972.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNM" group-title="Canais | BBB 23",BBB CAM 9 [ALTER]
+http://pfsv.io:80/live/1825037/9442/131823.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONP" group-title="Canais | Art & Music",BIS FHD
+http://pfsv.io:80/live/1825037/9442/5.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONR" group-title="Canais | Variedades",BIS FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130251.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONR" group-title="Canais | Art & Music",BIS  FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30177.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AFQ" group-title="Canais | Art & Music",BIS HD
+http://pfsv.io:80/live/1825037/9442/18.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AFL" group-title="Canais | Art & Music",BIS SD
+http://pfsv.io:80/live/1825037/9442/12.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Jogos & Eventos",BJJ STAR HD
+http://pfsv.io:80/live/1825037/9442/127310.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 1 FHD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132307.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 1 HD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132310.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 1 SD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132311.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 2 FHD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132308.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 2 HD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132312.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 2 SD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132313.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 3 FHD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132309.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 3 HD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132314.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Brasileirao Serie C 3 SD [ALTER2]
+http://pfsv.io:80/live/1825037/9442/132315.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/UZU" group-title="Canais | Campeonatos Estaduais",CAMPEONATO MINEIRO 2022 ( O TEMPO) Jogos 1
+http://pfsv.io:80/live/1825037/9442/108089.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/UZV" group-title="Canais | Campeonatos Estaduais",CAMPEONATO MINEIRO 2022 JOGO 1
+http://pfsv.io:80/live/1825037/9442/108090.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 1 FHD
+http://pfsv.io:80/live/1825037/9442/132268.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 1 HD
+http://pfsv.io:80/live/1825037/9442/132282.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 1 SD
+http://pfsv.io:80/live/1825037/9442/132281.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 1 [ALTER]
+http://pfsv.io:80/live/1825037/9442/132283.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 2 FHD
+http://pfsv.io:80/live/1825037/9442/132267.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 2 HD
+http://pfsv.io:80/live/1825037/9442/132280.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 2 SD
+http://pfsv.io:80/live/1825037/9442/132279.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 3 FHD
+http://pfsv.io:80/live/1825037/9442/132266.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 3 HD
+http://pfsv.io:80/live/1825037/9442/132278.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Campeonatos Estaduais",Campeonato Paraibano 3 SD
+http://pfsv.io:80/live/1825037/9442/132277.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APU" group-title="Canais | Filmes e Séries",Canal Brasil FHD
+http://pfsv.io:80/live/1825037/9442/298.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHL" group-title="Canais | Filmes e Séries",Canal Brasil FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30233.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHL" group-title="Canais | Variedades",Canal Brasil FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130252.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQP" group-title="Canais | Filmes e Séries",Canal Brasil HD
+http://pfsv.io:80/live/1825037/9442/322.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARP" group-title="Canais | Filmes e Séries",Canal Brasil SD
+http://pfsv.io:80/live/1825037/9442/349.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AIA" group-title="Canais | Abertos",Canal do Boi SD
+http://pfsv.io:80/live/1825037/9442/83.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AJT" group-title="Canais | Infantis",Nick JR FHD
+http://pfsv.io:80/live/1825037/9442/130.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIX" group-title="Canais | Infantis",Nick JR FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30263.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AKG" group-title="Canais | Infantis",Nick Jr FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130219.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AKG" group-title="Canais | Infantis",Nick JR HD
+http://pfsv.io:80/live/1825037/9442/144.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AKG" group-title="Canais | Infantis",Nick Jr SD
+http://pfsv.io:80/live/1825037/9442/158.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIY" group-title="Canais | Infantis",Nickelodeon FHD
+http://pfsv.io:80/live/1825037/9442/131.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIY" group-title="Canais | Infantis",Nickelodeon FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30264.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIY" group-title="Canais | Infantis",Nickelodeon FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130218.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIY" group-title="Canais | Infantis",Nickelodeon HD
+http://pfsv.io:80/live/1825037/9442/145.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIY" group-title="Canais | Infantis",Nickelodeon SD
+http://pfsv.io:80/live/1825037/9442/159.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APP" group-title="Canais | Filmes e Séries",Star Channel FHD
+http://pfsv.io:80/live/1825037/9442/292.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados",Star Channel FHD LEG
+http://pfsv.io:80/live/1825037/9442/123484.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Filmes e Séries",Star Channel FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130195.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WJM" group-title="Canais | Filmes e Séries",Star Channel FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30207.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQA" group-title="Canais | Filmes e Séries",Star Channel HD
+http://pfsv.io:80/live/1825037/9442/304.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados",Star Channel HD LEG
+http://pfsv.io:80/live/1825037/9442/122975.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQW" group-title="Canais | Filmes e Séries",Star Channel SD
+http://pfsv.io:80/live/1825037/9442/329.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | Legendados",Star Channel SD LEG
+http://pfsv.io:80/live/1825037/9442/123122.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/eLn" group-title="Canais | 4K",Star Channel [4K]
+http://pfsv.io:80/live/1825037/9442/5346.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLC" group-title="Canais | Jogos & Eventos",Star+ 1
+http://pfsv.io:80/live/1825037/9442/92364.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLD" group-title="Canais | Jogos & Eventos",Star+ 1 [Alter]
+http://pfsv.io:80/live/1825037/9442/92365.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLK" group-title="Canais | Jogos & Eventos",STAR+ 2
+http://pfsv.io:80/live/1825037/9442/108984.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLL" group-title="Canais | Jogos & Eventos",STAR+ 2[Alter]
+http://pfsv.io:80/live/1825037/9442/108985.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLJ" group-title="Canais | Jogos & Eventos",STAR+ 3
+http://pfsv.io:80/live/1825037/9442/108983.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLM" group-title="Canais | Jogos & Eventos",STAR+ 3[Alter]
+http://pfsv.io:80/live/1825037/9442/108986.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLI" group-title="Canais | Jogos & Eventos",STAR+ 4
+http://pfsv.io:80/live/1825037/9442/108982.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLH" group-title="Canais | Jogos & Eventos",STAR+ 5
+http://pfsv.io:80/live/1825037/9442/108981.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLG" group-title="Canais | Jogos & Eventos",STAR+ 6
+http://pfsv.io:80/live/1825037/9442/108980.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APG" group-title="Canais | Filmes e Séries",Studio Universal FHD
+http://pfsv.io:80/live/1825037/9442/283.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARM" group-title="Canais | Filmes e Séries",Studio Universal FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130196.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHD" group-title="Canais | Filmes e Séries",Studio Universal FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30221.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WGU" group-title="Canais | Filmes e Séries",Studio Universal HD
+http://pfsv.io:80/live/1825037/9442/320.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARM" group-title="Canais | Filmes e Séries",Studio Universal SD
+http://pfsv.io:80/live/1825037/9442/346.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APH" group-title="Canais | Filmes e Séries",SYFY FHD
+http://pfsv.io:80/live/1825037/9442/284.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHE" group-title="Canais | Filmes e Séries",SyFy FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30222.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHE" group-title="Canais | Filmes e Séries",SYFY FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130197.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQH" group-title="Canais | Filmes e Séries",SyFy HD
+http://pfsv.io:80/live/1825037/9442/312.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARE" group-title="Canais | Filmes e Séries",SyFy SD
+http://pfsv.io:80/live/1825037/9442/337.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/API" group-title="Canais | Filmes e Séries",TBS FHD
+http://pfsv.io:80/live/1825037/9442/285.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHF" group-title="Canais | Filmes e Séries",TBS FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30223.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHF" group-title="Canais | Filmes e Séries",TBS FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130198.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQO" group-title="Canais | Filmes e Séries",TBS HD
+http://pfsv.io:80/live/1825037/9442/321.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARN" group-title="Canais | Filmes e Séries",TBS SD
+http://pfsv.io:80/live/1825037/9442/347.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WKI" group-title="Canais | Filmes e Séries",TCM FHD
+http://pfsv.io:80/live/1825037/9442/59978.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WKH" group-title="Canais | Filmes e Séries",TCM HD
+http://pfsv.io:80/live/1825037/9442/50884.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARF" group-title="Canais | Filmes e Séries",TCM SD
+http://pfsv.io:80/live/1825037/9442/339.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYP" group-title="Canais | Telecine",Telecine Action FHD
+http://pfsv.io:80/live/1825037/9442/562.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWH" group-title="Canais | Legendados",Telecine Action FHD LEG
+http://pfsv.io:80/live/1825037/9442/123550.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSQ" group-title="Canais | Telecine",Telecine Action FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130244.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSQ" group-title="Canais | Telecine",Telecine Action FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30242.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYV" group-title="Canais | Telecine",Telecine Action HD
+http://pfsv.io:80/live/1825037/9442/568.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVT" group-title="Canais | Legendados",Telecine Action HD LEG
+http://pfsv.io:80/live/1825037/9442/123494.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AZB" group-title="Canais | Telecine",Telecine Action SD
+http://pfsv.io:80/live/1825037/9442/574.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVU" group-title="Canais | Legendados",Telecine Action SD LEG
+http://pfsv.io:80/live/1825037/9442/123495.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VTR" group-title="Canais | 4K",Telecine Action [4K]
+http://pfsv.io:80/live/1825037/9442/50871.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYU" group-title="Canais | Telecine",Telecine Cult FHD
+http://pfsv.io:80/live/1825037/9442/567.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWK" group-title="Canais | Legendados",Telecine Cult FHD LEG
+http://pfsv.io:80/live/1825037/9442/123553.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWK" group-title="Canais | Telecine",Telecine Cult FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130245.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSR" group-title="Canais | Telecine",Telecine Cult FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30243.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYW" group-title="Canais | Telecine",Telecine Cult HD
+http://pfsv.io:80/live/1825037/9442/569.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWE" group-title="Canais | Legendados",Telecine Cult HD LEG
+http://pfsv.io:80/live/1825037/9442/123542.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AZC" group-title="Canais | Telecine",Telecine Cult SD
+http://pfsv.io:80/live/1825037/9442/575.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWD" group-title="Canais | Legendados",Telecine Cult SD LEG
+http://pfsv.io:80/live/1825037/9442/123541.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYQ" group-title="Canais | Telecine",Telecine Fun FHD
+http://pfsv.io:80/live/1825037/9442/563.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWJ" group-title="Canais | Legendados",Telecine Fun FHD LEG
+http://pfsv.io:80/live/1825037/9442/123552.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSS" group-title="Canais | Telecine",Telecine Fun FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30244.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYQ" group-title="Canais | Telecine",Telecine Fun FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130247.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYX" group-title="Canais | Telecine",Telecine Fun HD
+http://pfsv.io:80/live/1825037/9442/570.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVV" group-title="Canais | Legendados",Telecine Fun HD LEG
+http://pfsv.io:80/live/1825037/9442/123496.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AZD" group-title="Canais | Telecine",Telecine Fun SD
+http://pfsv.io:80/live/1825037/9442/576.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVW" group-title="Canais | Legendados",Telecine Fun SD LEG
+http://pfsv.io:80/live/1825037/9442/123497.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYR" group-title="Canais | Telecine",Telecine Pipoca FHD
+http://pfsv.io:80/live/1825037/9442/564.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWF" group-title="Canais | Legendados",Telecine Pipoca FHD LEG
+http://pfsv.io:80/live/1825037/9442/123548.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYR" group-title="Canais | Telecine",Telecine Pipoca FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130248.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VST" group-title="Canais | Telecine",Telecine Pipoca FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30245.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYZ" group-title="Canais | Telecine",Telecine Pipoca HD
+http://pfsv.io:80/live/1825037/9442/572.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVX" group-title="Canais | Legendados",Telecine Pipoca HD LEG
+http://pfsv.io:80/live/1825037/9442/123498.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AZF" group-title="Canais | Telecine",Telecine Pipoca SD
+http://pfsv.io:80/live/1825037/9442/578.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVY" group-title="Canais | Legendados",Telecine Pipoca SD LEG
+http://pfsv.io:80/live/1825037/9442/123499.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSJ" group-title="Canais | 4K",Telecine Pipoca [4K]
+http://pfsv.io:80/live/1825037/9442/5345.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYS" group-title="Canais | Telecine",Telecine Premium FHD
+http://pfsv.io:80/live/1825037/9442/565.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWG" group-title="Canais | Legendados",Telecine Premium FHD LEG
+http://pfsv.io:80/live/1825037/9442/123549.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSU" group-title="Canais | Telecine",Telecine Premium FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130249.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSU" group-title="Canais | Telecine",Telecine Premium FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30246.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AZA" group-title="Canais | Telecine",Telecine Premium HD
+http://pfsv.io:80/live/1825037/9442/573.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VVZ" group-title="Canais | Legendados",Telecine Premium HD LEG
+http://pfsv.io:80/live/1825037/9442/123500.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AZG" group-title="Canais | Telecine",Telecine Premium SD
+http://pfsv.io:80/live/1825037/9442/579.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWA" group-title="Canais | Legendados",Telecine Premium SD LEG
+http://pfsv.io:80/live/1825037/9442/123501.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AZV" group-title="Canais | 4K",Telecine Premium [4K]
+http://pfsv.io:80/live/1825037/9442/597.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYT" group-title="Canais | Telecine",Telecine Touch FHD
+http://pfsv.io:80/live/1825037/9442/566.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWI" group-title="Canais | Legendados",Telecine Touch FHD LEG
+http://pfsv.io:80/live/1825037/9442/123551.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSV" group-title="Canais | Telecine",Telecine Touch FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130250.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VSV" group-title="Canais | Telecine",Telecine Touch FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30247.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AYY" group-title="Canais | Telecine",Telecine Touch HD
+http://pfsv.io:80/live/1825037/9442/571.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWB" group-title="Canais | Legendados",Telecine Touch HD LEG
+http://pfsv.io:80/live/1825037/9442/123502.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AZE" group-title="Canais | Telecine",Telecine Touch SD
+http://pfsv.io:80/live/1825037/9442/577.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VWC" group-title="Canais | Legendados",Telecine Touch SD LEG
+http://pfsv.io:80/live/1825037/9442/123503.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AIF" group-title="Canais | Abertos",Terra Viva SD
+http://pfsv.io:80/live/1825037/9442/88.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APJ" group-title="Canais | Filmes e Séries",TLC FHD
+http://pfsv.io:80/live/1825037/9442/286.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHK" group-title="Canais | Filmes e Séries",TLC FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30229.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHK" group-title="Canais | Filmes e Séries",TLC FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130199.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQJ" group-title="Canais | Filmes e Séries",TLC HD
+http://pfsv.io:80/live/1825037/9442/314.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARG" group-title="Canais | Filmes e Séries",TLC SD
+http://pfsv.io:80/live/1825037/9442/340.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APK" group-title="Canais | Filmes e Séries",TNT FHD
+http://pfsv.io:80/live/1825037/9442/287.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHG" group-title="Canais | Filmes e Séries",TNT FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30224.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIG" group-title="Canais | Filmes e Séries",TNT FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130200.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQK" group-title="Canais | Filmes e Séries",TNT HD
+http://pfsv.io:80/live/1825037/9442/315.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIF" group-title="Canais | Legendados",TNT HD LEG
+http://pfsv.io:80/live/1825037/9442/123504.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQK" group-title="Canais | Filmes e Séries",TNT SD
+http://pfsv.io:80/live/1825037/9442/341.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIG" group-title="Canais | Legendados",TNT SD LEG
+http://pfsv.io:80/live/1825037/9442/123505.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APL" group-title="Canais | Filmes e Séries",TNT Series FHD
+http://pfsv.io:80/live/1825037/9442/288.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WHH" group-title="Canais | Filmes e Séries",TNT Series FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30225.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIQ" group-title="Canais | Filmes e Séries",TNT Series FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130201.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQL" group-title="Canais | Filmes e Séries",TNT Series HD
+http://pfsv.io:80/live/1825037/9442/316.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIP" group-title="Canais | Legendados",TNT Series HD LEG
+http://pfsv.io:80/live/1825037/9442/123514.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARI" group-title="Canais | Filmes e Séries",TNT Series SD
+http://pfsv.io:80/live/1825037/9442/342.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIQ" group-title="Canais | Legendados",TNT Series SD LEG
+http://pfsv.io:80/live/1825037/9442/123515.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/bj" group-title="Canais | 4K",TNT Series [4K]
+http://pfsv.io:80/live/1825037/9442/602.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WKK" group-title="Canais | Esportes",TNT Sports 3 Brasil HD
+http://pfsv.io:80/live/1825037/9442/108399.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WKL" group-title="Canais | Esportes",TNT Sports 4 Brasil HD
+http://pfsv.io:80/live/1825037/9442/108400.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WKM" group-title="Canais | Esportes",TNT Sports 5 Brasil HD
+http://pfsv.io:80/live/1825037/9442/108401.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/bi" group-title="Canais | 4K",TNT [4K]
+http://pfsv.io:80/live/1825037/9442/601.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WJF" group-title="Canais | Infantis",Tooncast FHD
+http://pfsv.io:80/live/1825037/9442/48756.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WJE" group-title="Canais | Infantis",Tooncast HD
+http://pfsv.io:80/live/1825037/9442/48755.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WJE" group-title="Canais | Infantis",Tooncast SD
+http://pfsv.io:80/live/1825037/9442/160.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VAQ" group-title="Canais | Art & Music",Trace Brazuca FHD
+http://pfsv.io:80/live/1825037/9442/50878.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VAU" group-title="Canais | Art & Music",Trace Brazuca FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130226.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VAU" group-title="Canais | Art & Music",Trace Brazuca HD
+http://pfsv.io:80/live/1825037/9442/90690.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VAT" group-title="Canais | Art & Music",Trace Brazuca SD
+http://pfsv.io:80/live/1825037/9442/90689.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VMN" group-title="Canais | Variedades",Travel Box Brasil FHD
+http://pfsv.io:80/live/1825037/9442/50882.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VMG" group-title="Canais | Variedades",Travel Box Brasil FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30188.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VMK" group-title="Canais | Variedades",Travel Box Brasil HD
+http://pfsv.io:80/live/1825037/9442/50836.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VML" group-title="Canais | Variedades",Travel Box Brasil SD
+http://pfsv.io:80/live/1825037/9442/50837.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VMN" group-title="Canais | Variedades",Travel Box Brazil FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130262.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APM" group-title="Canais | Filmes e Séries",TruTV FHD
+http://pfsv.io:80/live/1825037/9442/289.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WJR" group-title="Canais | Filmes e Séries",TruTV FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30232.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQQ" group-title="Canais | Filmes e Séries",TruTV HD
+http://pfsv.io:80/live/1825037/9442/323.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARQ" group-title="Canais | Filmes e Séries",TruTV SD
+http://pfsv.io:80/live/1825037/9442/350.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VPS" group-title="Canais | Religiosos",Tv Aparecida SD
+http://pfsv.io:80/live/1825037/9442/548.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AIG" group-title="Canais | Abertos",TV Brasil SD
+http://pfsv.io:80/live/1825037/9442/89.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AHR" group-title="Canais | Abertos",TV Camara SD
+http://pfsv.io:80/live/1825037/9442/74.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VCF" group-title="Canais | Campeonatos Estaduais",TV Coxa HD (Coritiba FC)
+http://pfsv.io:80/live/1825037/9442/66718.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AGR" group-title="Canais | Abertos",TV Cultura FHD
+http://pfsv.io:80/live/1825037/9442/47.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONS" group-title="Canais | Abertos",TV Cultura FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30183.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AHI" group-title="Canais | Abertos",TV Cultura HD
+http://pfsv.io:80/live/1825037/9442/64.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AIH" group-title="Canais | Abertos",TV Cultura SD
+http://pfsv.io:80/live/1825037/9442/90.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ASQ" group-title="Canais | Abertos",Tv Diario Fortaleza FHD
+http://pfsv.io:80/live/1825037/9442/383.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ATW" group-title="Canais | Abertos",TV Diario Fortaleza HD
+http://pfsv.io:80/live/1825037/9442/418.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AVD" group-title="Canais | Abertos",Tv Diario Fortaleza SD
+http://pfsv.io:80/live/1825037/9442/463.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONY" group-title="Canais | Abertos",TV Diario Sertao SD
+http://pfsv.io:80/live/1825037/9442/55193.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AHS" group-title="Canais | Abertos",TV Escola SD
+http://pfsv.io:80/live/1825037/9442/75.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VPY" group-title="Canais | Religiosos",TV Evangelizar
+http://pfsv.io:80/live/1825037/9442/53335.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VPZ" group-title="Canais | Religiosos",TV Evangelizar Maringa HD
+http://pfsv.io:80/live/1825037/9442/53337.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VQH" group-title="Canais | Religiosos",TV Evangelizar SD
+http://pfsv.io:80/live/1825037/9442/109555.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AGT" group-title="Canais | Abertos",TV Gazeta SP FHD
+http://pfsv.io:80/live/1825037/9442/49.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ONU" group-title="Canais | Abertos",Tv Gazeta SP FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30189.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AHA" group-title="Canais | Abertos",TV Gazeta SP HD
+http://pfsv.io:80/live/1825037/9442/56.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AHZ" group-title="Canais | Abertos",TV Gazeta SP SD
+http://pfsv.io:80/live/1825037/9442/82.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VQG" group-title="Canais | Religiosos",TV Gideoes HD
+http://pfsv.io:80/live/1825037/9442/69083.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WJG" group-title="Canais | Infantis",TV Gospel Cartoon HD
+http://pfsv.io:80/live/1825037/9442/69084.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AHQ" group-title="Canais | Abertos",TV Justica SD
+http://pfsv.io:80/live/1825037/9442/73.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VCD" group-title="Canais | Abertos",TV Metropolitanario HD
+http://pfsv.io:80/live/1825037/9442/120713.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VKZ" group-title="Canais | Jogos & Eventos",TV NSport 1 HD
+http://pfsv.io:80/live/1825037/9442/69076.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLA" group-title="Canais | Jogos & Eventos",TV NSport 2 HD
+http://pfsv.io:80/live/1825037/9442/69077.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VLB" group-title="Canais | Jogos & Eventos",TV NSport 3 HD
+http://pfsv.io:80/live/1825037/9442/69078.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VPT" group-title="Canais | Religiosos",TV Pai Eterno
+http://pfsv.io:80/live/1825037/9442/5342.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VQE" group-title="Canais | Religiosos",TV Pai Eterno HD
+http://pfsv.io:80/live/1825037/9442/69080.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AJV" group-title="Canais | Infantis",TV RA-TIM-BUM FHD
+http://pfsv.io:80/live/1825037/9442/132.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AKJ" group-title="Canais | Infantis",TV RA-TIM-BUM HD
+http://pfsv.io:80/live/1825037/9442/148.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AKW" group-title="Canais | Infantis",TV RA-TIM-BUM SD
+http://pfsv.io:80/live/1825037/9442/161.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VPX" group-title="Canais | Religiosos",TV Rede Gospel
+http://pfsv.io:80/live/1825037/9442/53333.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AHP" group-title="Canais | Abertos",TV Senado SD
+http://pfsv.io:80/live/1825037/9442/72.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Canais | Religiosos",TV Terceiro Anjo HD
+http://pfsv.io:80/live/1825037/9442/127314.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VPW" group-title="Canais | Religiosos",TV Universal (IURD)
+http://pfsv.io:80/live/1825037/9442/53286.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/BQM" group-title="Canais | Abertos",TV Univesp HD
+http://pfsv.io:80/live/1825037/9442/1066.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/BQN" group-title="Canais | Abertos",TV Univesp SD
+http://pfsv.io:80/live/1825037/9442/1067.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VQB" group-title="Canais | Religiosos",Tv Vianney HD
+http://pfsv.io:80/live/1825037/9442/53340.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WIZ" group-title="Canais | Infantis",TV-RA-TIM-BUM [H265]
+http://pfsv.io:80/live/1825037/9442/30265.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XNA" group-title="Canais | Esportes",UFC Fight PASS
+http://pfsv.io:80/live/1825037/9442/131818.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XRJ" group-title="Canais | Esportes",UFC Fight Pass FHD
+http://pfsv.io:80/live/1825037/9442/132342.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XRK" group-title="Canais | Esportes",UFC Fight Pass HD
+http://pfsv.io:80/live/1825037/9442/132343.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/XRL" group-title="Canais | Esportes",UFC Fight Pass SD
+http://pfsv.io:80/live/1825037/9442/132344.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APN" group-title="Canais | Filmes e Séries",Universal Channel FHD
+http://pfsv.io:80/live/1825037/9442/290.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WJQ" group-title="Canais | Filmes e Séries",Universal Channel FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30230.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | Filmes e Séries",Universal Channel FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130202.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQM" group-title="Canais | Filmes e Séries",Universal Channel HD
+http://pfsv.io:80/live/1825037/9442/317.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARJ" group-title="Canais | Filmes e Séries",Universal Channel SD
+http://pfsv.io:80/live/1825037/9442/343.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/eLm" group-title="Canais | 4K",Universal Channel [4K]
+http://pfsv.io:80/live/1825037/9442/65247.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VMF" group-title="Canais | Variedades",Viva FHD
+http://pfsv.io:80/live/1825037/9442/105.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VMF" group-title="Canais | Variedades",Viva FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130263.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VMI" group-title="Canais | Religiosos",VIVA FHD[H265]
+http://pfsv.io:80/live/1825037/9442/30298.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AJD" group-title="Canais | Variedades",Viva HD
+http://pfsv.io:80/live/1825037/9442/114.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AJM" group-title="Canais | Variedades",Viva SD
+http://pfsv.io:80/live/1825037/9442/123.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VMM" group-title="Canais | 4K",VIVA [4K]
+http://pfsv.io:80/live/1825037/9442/50867.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VPP" group-title="Canais | Jogos & Eventos",W NBA HD
+http://pfsv.io:80/live/1825037/9442/119638.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/APT" group-title="Canais | Filmes e Séries",Warner Channel FHD
+http://pfsv.io:80/live/1825037/9442/297.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/WJP" group-title="Canais | Filmes e Séries",Warner Channel FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30226.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Filmes e Séries",Warner Channel FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130203.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AQN" group-title="Canais | Filmes e Séries",Warner Channel HD
+http://pfsv.io:80/live/1825037/9442/319.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/ARL" group-title="Canais | Filmes e Séries",Warner Channel SD
+http://pfsv.io:80/live/1825037/9442/345.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Legendados",Warner HD LEG
+http://pfsv.io:80/live/1825037/9442/123516.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/eLq" group-title="Canais | Legendados",Warner SD LEG
+http://pfsv.io:80/live/1825037/9442/123517.m3u8
+#EXTINF:-1 tvg-logo="https://www.pontoisp.com.br/wp-content/uploads/2019/02/watch-espn.png" group-title="Canais | Jogos & Eventos",WATCH ESPN
+http://pfsv.io:80/live/1825037/9442/33376.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/AJW" group-title="Canais | Art & Music",WooHoo FHD
+http://pfsv.io:80/live/1825037/9442/133.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VAN" group-title="Canais | Art & Music",WooHoo FHD [H265]
+http://pfsv.io:80/live/1825037/9442/30174.m3u8
+#EXTINF:-1 tvg-logo="http://p6.vc/VAN" group-title="Canais | Art & Music",Woohoo FHD [HDR]
+http://pfsv.io:80/live/1825037/9442/130227.m3u8
